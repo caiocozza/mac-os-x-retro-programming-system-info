@@ -1,0 +1,5 @@
+//
+// Prefix header for all source files of the 'SystemProcessorsTray' target in the 'SystemProcessorsTray' project.
+//
+
+#include <Carbon/Carbon.h>
